@@ -1,8 +1,10 @@
 # 👋 Hi everyone
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data structures and Algorithms
+- I’m interested in Software Development.
+- I know JavaScript, TypeScript, Vue.
+- I’m currently learning Data structures and Algorithms.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 You can reach me with adaybek77@gmail.com
+- You can see my experience job on [LinkedIn](https://www.linkedin.com/in/aday-kagazbek-538a8b1b6/)
+- 📫 adaybek77@gmail.com
 
 <!---
 adayke/adayke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
